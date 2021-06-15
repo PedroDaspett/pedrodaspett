@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- How to build Language and GitHub stats cards: https://github.com/anuraghazra/github-readme-stats -->
+<a href="https://github.com/PedroDaspett?tab=repositories">
   <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodaspett&layout=compact&theme=midnight-purple" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/PedroDaspett?tab=repositories">
   <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=pedrodaspett&theme=midnight-purple&count_private=true&show_icons=true" />
 </a>
 

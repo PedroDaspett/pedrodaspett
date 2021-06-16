@@ -60,6 +60,8 @@ Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` 
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/roaldnefs/) for a more detailed description of my full work experience, education and certification.
  -->
+ 
+ [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/315p6dnganzjr7cgx3igzvjnbfne) <br>
 
 <!-- How to build Language and GitHub stats cards: https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/PedroDaspett?tab=repositories">

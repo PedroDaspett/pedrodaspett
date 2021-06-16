@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ### Work Experience
-In the overview below you will find my most recent work experience:
+## Latest Work Experience
+Here's an overview of my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://avatars.githubusercontent.com/u/5047569?s=200&v=4"/>](https://warpnet.nl/)
+[<img align="left" height="94px" width="94px" alt="Itaú Unibanco" src="https://www.itau.com.br/content/dam/itau/varejo/logo-app-Itau.png"/>](https://www.itau.com.br)
 
-**Software Engineer (SWE) and Site Reliability Engineer (SRE)** \
-[**Warpnet**](https://warpnet.nl/) • Full-time \
-Languages & Technologies: `Java`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`, `Prometheus` \
-Featured Projects: [salt-lint](https://github.com/warpnet/salt-lint), [vscode-salt-lint](https://github.com/warpnet/vscode-salt-lint)
+**DevOps Engineer (SWE) and Site Reliability Engineer (SRE)** \
+[**Itaú Unibanco**](https://www.itau.com.br) • Full-time \
+Languages, Technologies, Tools and others: `Java`, `API Restful`, `Spring Boot`, `IntelliJ`, `Postman`, `SQL Server`, `Docker`, `RAML`, `Visual Studio Code`, `Splunk`, `AppDynamics`, `Grafana`, `AWS`, `Puppet Enterprise`, `Rational Team Concert - IBM Jazz`, `Kafka`, `GitLab/GitLab CI/CD`, `CyberArk`, `Business Complexity Points`, `Jira`, `Confluence`, `Scrum`
+<!-- Featured Projects: [salt-lint](https://github.com/warpnet/salt-lint), [vscode-salt-lint](https://github.com/warpnet/vscode-salt-lint) -->
 <br/>
-
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHG-gVjZV6mrw/company-logo_200_200/0/1604394679834?e=1628121600&v=beta&t=zE5GVEWZgrkYNjpoQOeVxoUK0yPe6JWdf8NglmFVb_M"/>](https://www.kpn.com/)
+<!--
+[<img align="left" height="94px" width="94px" alt="Rede" src="https://www.traycorp.com.br/wp-content/uploads/2020/03/redecard.jpg/>](https://www.userede.com.br)
 
 **DevOps Engineer** \
 [**KPN**](https://www.kpn.com/) • Contract \
@@ -61,7 +61,7 @@ Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` 
 Please find me on [LinkedIn](https://www.linkedin.com/in/roaldnefs/) for a more detailed description of my full work experience, education and certification.
  -->
  
- [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/315p6dnganzjr7cgx3igzvjnbfne) <br>
+<!-- [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/315p6dnganzjr7cgx3igzvjnbfne) <br> -->
 
 <!-- How to build Language and GitHub stats cards: https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/PedroDaspett?tab=repositories">

@@ -20,25 +20,17 @@ Here's an overview of my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="Itaú Unibanco" src="https://www.itau.com.br/content/dam/itau/varejo/logo-app-Itau.png"/>](https://www.itau.com.br)
 
-**DevOps Engineer (SWE) and Site Reliability Engineer (SRE)** \
-[**Itaú Unibanco**](https://www.itau.com.br) • Full-time \
+**DevOps Engineer and Site Reliability Engineer (SRE)** \
+[**Itaú Unibanco**](https://www.itau.com.br) • Full-time • 2019-now \
 Languages, Technologies, Tools and others: `Java`, `API Restful`, `Spring Boot`, `IntelliJ`, `Postman`, `SQL Server`, `Docker`, `RAML`, `Visual Studio Code`, `Splunk`, `AppDynamics`, `Grafana`, `AWS`, `Puppet Enterprise`, `Rational Team Concert - IBM Jazz`, `Kafka`, `GitLab/GitLab CI/CD`, `CyberArk`, `Business Complexity Points`, `Jira`, `Confluence`, `Scrum`
 <!-- Featured Projects: [salt-lint](https://github.com/warpnet/salt-lint), [vscode-salt-lint](https://github.com/warpnet/vscode-salt-lint) -->
 <br/>
-<!--
-[<img align="left" height="94px" width="94px" alt="Rede" src="https://www.traycorp.com.br/wp-content/uploads/2020/03/redecard.jpg/>](https://www.userede.com.br)
 
-**DevOps Engineer** \
-[**KPN**](https://www.kpn.com/) • Contract \
-Languages & Technologies: `RHEL`, `Python`, `Ansible`\
-<br/>
-<br/>
+[<img align="left" height="94px" width="94px" alt="Itaú Unibanco" border-radius="50px" src="https://www.traycorp.com.br/wp-content/uploads/2020/03/redecard.jpg"/>](https://www.userede.com.br)
 
-[<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHjgPhHoVWNBw/company-logo_200_200/0/1519898606850?e=1628121600&v=beta&t=9HsJYd8N41Tp_gE9zDgXRpsLcbsM1PZr62zfeUy699g"/>](https://duo.nl/)
-
-**DevOps Engineer** \
-[**DUO**](https://duo.nl/) • Contract \
-Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` \
+**Internship** \
+[**REDE**](https://www.userede.com.br) • 6h a day • 2018-2019 \
+Languages & Technologies: `JavaScript`, `SQL Server`, `SAP Ariba`
 <br/>
 <br/>
 

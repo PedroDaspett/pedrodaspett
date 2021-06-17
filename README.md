@@ -1,5 +1,10 @@
-<h1 align="center">Hey there! I'm Pedro <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+<h1 align="center">Hey there, welcome! I'm Pedro<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">🇧🇷</h1>
 
+I'm a FullStack developer and currently studying for a bachelor degree in <a href="https://www.mackenzie.br/en/undergraduate-programs/sao-paulo-higienopolis/information-systems">Information Systems</a> at <a href="https://www.mackenzie.br/en/universidade/meet-the-university/">Mackenzie Presbyterian University</a>.
+⚡️I'm currently learning Swift. 
+</br>
+## Languages, Technologies, Tools and others:
+ 
 <!--
 **PedroDaspett/pedrodaspett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Welcome to my GitHub page
@@ -25,7 +30,6 @@ Here's an overview of my most recent work experience:
 Languages, Technologies, Tools and others: `Java`, `API Restful`, `Spring Boot`, `IntelliJ`, `Postman`, `SQL Server`, `Docker`, `RAML`, `Visual Studio Code`, `Splunk`, `AppDynamics`, `Grafana`, `AWS`, `Puppet Enterprise`, `Rational Team Concert - IBM Jazz`, `Kafka`, `GitLab/GitLab CI/CD`, `CyberArk`, `Business Complexity Points`, `Jira`, `Confluence`, `Scrum`
 <!-- Featured Projects: [salt-lint](https://github.com/warpnet/salt-lint), [vscode-salt-lint](https://github.com/warpnet/vscode-salt-lint) -->
 
-
 [<img align="left" height="94px" width="94px" alt="Itaú Unibanco" border-radius="50px" src="https://www.traycorp.com.br/wp-content/uploads/2020/03/redecard.jpg"/>](https://www.userede.com.br)
 
 **Internship** \
@@ -33,6 +37,7 @@ Languages, Technologies, Tools and others: `Java`, `API Restful`, `Spring Boot`,
 Languages, Technologies, Tools and others: `JavaScript`, `SQL Server`, `SAP Ariba`
 <br/>
 <br/>
+Please find me on [LinkedIn](https://www.linkedin.com/in/roaldnefs/) for a more detailed description of my full work experience, education and certification.
 
 <!-- Find me on:
 <p>

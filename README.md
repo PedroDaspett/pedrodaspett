@@ -37,7 +37,7 @@ Languages, Technologies, Tools and others: `Java`, `API Restful`, `Spring Boot`,
 Languages, Technologies, Tools and others: `JavaScript`, `SQL Server`, `SAP Ariba`
 <br/>
 <br/>
-Please find me on [LinkedIn](https://www.linkedin.com/in/roaldnefs/) for a more detailed description of my full work experience, education and certification.
+Please find me on [LinkedIn](linkedin.com/in/pedro-couventaris-daspett-154320191) for a more detailed description of my full work experience, education and certification.
 
 <!-- Find me on:
 <p>

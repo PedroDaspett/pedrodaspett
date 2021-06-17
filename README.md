@@ -1,8 +1,8 @@
-### <h2 align="center">Hey there! Welcome to my GitHub page <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+<h1 align="center">Hey there! I'm Pedro <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <!--
 **PedroDaspett/pedrodaspett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Welcome to my GitHub page
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -29,8 +29,8 @@ Languages, Technologies, Tools and others: `Java`, `API Restful`, `Spring Boot`,
 [<img align="left" height="94px" width="94px" alt="Itaú Unibanco" border-radius="50px" src="https://www.traycorp.com.br/wp-content/uploads/2020/03/redecard.jpg"/>](https://www.userede.com.br)
 
 **Internship** \
-[**REDE**](https://www.userede.com.br) • 6h a day • 2018-2019 \
-Languages & Technologies: `JavaScript`, `SQL Server`, `SAP Ariba`
+[**REDE**](https://www.userede.com.br) • 6 hours a day • 2018-2019 \
+Languages, Technologies, Tools and others: `JavaScript`, `SQL Server`, `SAP Ariba`
 <br/>
 <br/>
 
@@ -57,8 +57,8 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/roaldnefs/) for a more 
 
 <!-- How to build Language and GitHub stats cards: https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/PedroDaspett?tab=repositories">
-  <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodaspett&layout=compact&theme=midnight-purple" />
+  <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodaspett&layout=compact&theme=dracula" border-radius="21px"/>
 </a>
 <a href="https://github.com/PedroDaspett?tab=repositories">
-  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=pedrodaspett&theme=midnight-purple&count_private=true&show_icons=true" />
+  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=pedrodaspett&theme=dracula&count_private=true&show_icons=true" border-radius="21px"/>
 </a>

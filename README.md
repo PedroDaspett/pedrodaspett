@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 ## Latest Work Experience
 Here's an overview of my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Itaú Unibanco" src="https://www.itau.com.br/content/dam/itau/varejo/logo-app-Itau.png"/>](https://www.itau.com.br/relacoes-com-investidores/Default.aspx?linguagem=en#)
+[<img align="left" height="94px" width="94px" alt="Itaú Unibanco" src="![logo-app-Itau](https://user-images.githubusercontent.com/28744868/122804503-5ead1800-d29e-11eb-82ed-44298a727279.png)"/>](https://www.itau.com.br/relacoes-com-investidores/Default.aspx?linguagem=en#)
 
 **FullStack Engineer** \
 [**Itaú Unibanco**](https://www.itau.com.br/relacoes-com-investidores/Default.aspx?linguagem=en#) • Full-time • 2019-now \
-Languages, Technologies, Tools and others: `Java`, `API Restful`, `Spring Boot`, `IntelliJ`, `Postman`, `SQL Server`, `Docker`, `RAML`, `Visual Studio Code`, `Splunk`, `AppDynamics`, `Grafana`, `AWS`, `Puppet Enterprise`, `Rational Team Concert - IBM Jazz`, `Kafka`, `GitLab/GitLab CI/CD`, `CyberArk`, `Business Complexity Points`, `Jira`, `Confluence`, `Scrum`
+Languages, Technologies, Tools and others: `Java`, `API Restful`, `Spring Boot`, `IntelliJ`, `Postman`, `SQL Server Management Studio`, `Docker`, `RAML`, `Visual Studio Code`, `Splunk`, `AppDynamics`, `Grafana`, `AWS`, `Puppet Enterprise`, `Rational Team Concert - IBM Jazz`, `Kafka`, `GitLab/GitLab CI/CD`, `CyberArk`, `Business Complexity Points`, `Jira`, `Confluence`, `Scrum`
 <!-- Featured Projects: [salt-lint](https://github.com/warpnet/salt-lint), [vscode-salt-lint](https://github.com/warpnet/vscode-salt-lint) -->
 
 [<img align="left" height="94px" width="94px" alt="Itaú Unibanco" border-radius="50px" src="https://www.traycorp.com.br/wp-content/uploads/2020/03/redecard.jpg"/>](https://www.userede.com.br)

@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## Latest Work Experience
 Here's an overview of my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Itaú Unibanco" src="![logo-app-Itau](https://user-images.githubusercontent.com/28744868/122804503-5ead1800-d29e-11eb-82ed-44298a727279.png)"/>](https://www.itau.com.br/relacoes-com-investidores/Default.aspx?linguagem=en#)
+[<img align="left" height="94px" width="94px" alt="Itaú Unibanco" src="https://www.itau.com.br/content/dam/itau/varejo/logo-app-Itau.png"/>](https://www.itau.com.br/relacoes-com-investidores/Default.aspx?linguagem=en#)
 
 **FullStack Engineer** \
 [**Itaú Unibanco**](https://www.itau.com.br/relacoes-com-investidores/Default.aspx?linguagem=en#) • Full-time • 2019-now \

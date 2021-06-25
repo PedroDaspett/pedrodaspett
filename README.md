@@ -31,8 +31,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
  <img alt="MySQL" src="https://img.shields.io/badge/mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=F29111"/>
  <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=black"/>
  <img alt="Windows 10" src="https://img.shields.io/badge/Windows_10-00adef?style=for-the-badge&logo=windows&logoColor=white" />
- <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
-  <img alt="iOS" src="https://img.shields.io/badge/macOS-555555?style=for-the-badge&logo=macos&logoColor=white">
+ <img alt="macOS" src="https://img.shields.io/badge/macOS-555555?style=for-the-badge&logo=macos&logoColor=white">
  <img alt="Postman" src="https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=postman&logoColor=EF5B25" />
  <img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
  <img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />

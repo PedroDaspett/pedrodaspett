@@ -9,6 +9,10 @@ I'm a FullStack developer and currently studying for a bachelor degree in <a hre
 https://github.com/Ileriayo/markdown-badges#programming-languages
 https://github.com/alexandresanlim/Badges4-README.md-Profile
    -->
+ <!-- <img alt="Swift" src="https://img.shields.io/badge/swift-F05138.svg?style=for-the-badge&logo=swift&logoColor=white"/>
+ <img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>  -->
+ <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-darkred?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+ <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=F7941E"/>
  <img alt="Java" src="https://img.shields.io/badge/java-5382a1.svg?style=for-the-badge&logo=java&logoColor=f89820"/>
  <img alt="Splunk" src="https://img.shields.io/badge/splunk-black.svg?style=for-the-badge&logo=splunk&logoColor=65A637"/>
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=f0db4f"/>
@@ -69,6 +73,19 @@ Languages, Technologies, Tools and others: `JavaScript`, `SQL Server`, `SAP Arib
 <br/>
 <br/>
 <p>Please find me on <a href="linkedin.com/in/pedrodaspett">LinkedIn</a> for a more detailed description of my full work experience, education and certification.</p>
+<p>
+ <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+ 
+ <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+ 
+ <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ 
+ <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+ 
+ <img alt="PlayStation Network" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
+ 
+ <img alt="Setup" src="https://img.shields.io/badge/Apple-MacBook_Pro_M1_2020-999999?style=for-the-badge&logo=apple&logoColor=white"/>
+</p>
 
 <!-- Find me on:
 <p>

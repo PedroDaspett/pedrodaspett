@@ -99,15 +99,15 @@ Languages, Technologies, Tools and others: `JavaScript`, `SQL Server`, `SAP Arib
  <a href="https://linkedin.com/in/pedrodaspett" target="_blank">
  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
-
- <a href="https://api.whatsapp.com/send?phone=+5511994723193&text=Hey,%20I've%20found%20you%20on%20GitHub!" target="_blank">
- <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
- </a>
  
  <a href="mailto:pedrodaspett@hotmail.com?Subject=Hey!%20I've%20found%20you%20on%20GitHub!" target="_blank">
  <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
  </a>
-
+ 
+ <a href="https://api.whatsapp.com/send?phone=+5511994723193&text=Hey,%20I've%20found%20you%20on%20GitHub!" target="_blank">
+ <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+ </a>
+ 
  <a href="" target="_blank">
  <img alt="PlayStation Network" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
  </a>

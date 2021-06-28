@@ -3,17 +3,19 @@
 I'm a FullStack developer and currently studying for a bachelor degree in <a href="https://www.mackenzie.br/en/undergraduate-programs/sao-paulo-higienopolis/information-systems">Information Systems</a> at <a href="https://www.mackenzie.br/en/universidade/meet-the-university/">Mackenzie Presbyterian University</a>.</br>
 ⚡️I'm currently learning Swift. 
 </br>
-## Languages, Technologies, Tools and others:
+## Languages, Frameworks, Tools and others:
 <p align="center">
- <!-- 
+ <!--
 https://github.com/Ileriayo/markdown-badges#programming-languages
 https://github.com/alexandresanlim/Badges4-README.md-Profile
    -->
- <!-- <img alt="Swift" src="https://img.shields.io/badge/swift-F05138.svg?style=for-the-badge&logo=swift&logoColor=white"/>
- <img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>  -->
+ <!-- 
+
+<img alt="Swift" src="https://img.shields.io/badge/swift-F05138.svg?style=for-the-badge&logo=swift&logoColor=white"/>
+<img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>  -->
+ <img alt="Java" src="https://img.shields.io/badge/java-5382a1.svg?style=for-the-badge&logo=java&logoColor=f89820"/>
  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-darkred?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=F7941E"/>
- <img alt="Java" src="https://img.shields.io/badge/java-5382a1.svg?style=for-the-badge&logo=java&logoColor=f89820"/>
  <img alt="Splunk" src="https://img.shields.io/badge/splunk-black.svg?style=for-the-badge&logo=splunk&logoColor=65A637"/>
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=f0db4f"/>
  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-007acc.svg?style=for-the-badge&logo=typescript&logoColor=ffffff"/>
@@ -72,28 +74,35 @@ Languages, Technologies, Tools and others: `JavaScript`, `SQL Server`, `SAP Arib
 <br/>
 <br/>
 <p>Please find me on <a href="linkedin.com/in/pedrodaspett">LinkedIn</a> for a more detailed description of my full work experience, education and certification.</p>
-<p>
- <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
- 
- <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
- 
+
+## Find me on...
+<p align="center">
+ <a href="https://linkedin.com/in/pedrodaspett" target="_blank">
  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
- 
+ </a>
+
+ <a href="https://api.whatsapp.com/send?phone=+5511994723193&text=Hey,%20I've%20found%20you%20on%20GitHub!" target="_blank">
  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+ </a>
  
+ <a href="mailto:pedrodaspett@hotmail.com?Subject=Hey!%20I've%20found%20you%20on%20GitHub!" target="_blank">
+ <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+ </a>
+
+ <a href="" target="_blank">
  <img alt="PlayStation Network" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
+ </a>
  
- <img alt="Setup" src="https://img.shields.io/badge/Apple-MacBook_Pro_M1_2020-999999?style=for-the-badge&logo=apple&logoColor=white"/>
+ <a href=˜https://www.instagram.com/pedrodaspett/˜ target="_blank">
+ <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+ </a>
 </p>
 
-<!-- Find me on:
+<!--
+## Setup:
+ <img alt="Setup" src="https://img.shields.io/badge/Apple-MacBook_Pro_M1_2020-999999?style=for-the-badge&logo=apple&logoColor=white"/>
+ Find me on:
 <p>
-<a href="https://www.linkedin.com/in/michael-hoffmann-3b8933b1">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a>
-<a href="https://www.instagram.com/pedrodaspett/">
-<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
-</a>
 <a href="https://medium.com/@MokkappsDev">
 <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
 </a>
@@ -101,9 +110,7 @@ Languages, Technologies, Tools and others: `JavaScript`, `SQL Server`, `SAP Arib
 <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25>
 </a>
 </p>
-
-Please find me on [LinkedIn](https://www.linkedin.com/in/roaldnefs/) for a more detailed description of my full work experience, education and certification.
- -->
+-->
  
 <!-- [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/315p6dnganzjr7cgx3igzvjnbfne) <br> -->
 

@@ -9,10 +9,12 @@ I'm a FullStack developer and currently studying for a bachelor degree in <a hre
 BADGES:
  https://github.com/Ileriayo/markdown-badges#programming-languages
  https://github.com/alexandresanlim/Badges4-README.md-Profile
+ https://simpleicons.org
 -->
 <!-- PROGRAMMING LANGUAGES:
   <img alt="Swift" src="https://img.shields.io/badge/swift-F05138.svg?style=for-the-badge&logo=swift&logoColor=white"/> -->
   <img alt="Java" src="https://img.shields.io/badge/java-5382a1.svg?style=for-the-badge&logo=java&logoColor=f89820"/>
+ <img alt="Java" src="https://img.shields.io/badge/java-5382a1.svg?style=for-the-badge&logo=java&logoColor=f89820"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=f0db4f"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-007acc.svg?style=for-the-badge&logo=typescript&logoColor=ffffff"/>
   <img alt="HTML5" src="https://img.shields.io/badge/html_5-E44D26.svg?style=for-the-badge&logo=html5&logoColor=white"/>

@@ -103,6 +103,7 @@ Linguagens, Frameworks, Ferramentas e outros: `JavaScript`, `SQL Server`, `SAP A
 <br/>
 <br/>
 <p>Por favor visite meu <a href="linkedin.com/in/pedrodaspett" target="_blank">LinkedIn</a> para uma descrição mais detalhada da minha experiência profissional, educação e certificações.</p>
+<!-- [Meus Certificados](https://github.com/ThesllaDev/ThesllaDev/blob/main/myCertificates.md) -->
 
 <!-- CONTACT -->
 ## Contato:

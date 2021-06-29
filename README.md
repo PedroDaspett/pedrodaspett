@@ -1,8 +1,14 @@
+<!-- TITLE -->
 <h1 align="center">Hey there, welcome! I'm Pedro<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">🇧🇷</h1>
 
-I'm a FullStack developer and currently studying for a bachelor degree in <a href="https://www.mackenzie.br/en/undergraduate-programs/sao-paulo-higienopolis/information-systems">Information Systems</a> at <a href="https://www.mackenzie.br/en/universidade/meet-the-university/">Mackenzie Presbyterian University</a>.</br>
+<!-- WHO AM I? -->
+<p>I'm a FullStack developer and currently studying for a bachelor degree in <a href="https://www.mackenzie.br/en/undergraduate-programs/sao-paulo-higienopolis/information-systems">Information Systems</a> at <a href="https://www.mackenzie.br/en/universidade/meet-the-university/">Mackenzie Presbyterian University</a>.
+</br>
 ⚡️I'm currently learning Swift. 
 </br>
+</p>
+
+<!-- TECHNOLOGIES -->
 ## Languages, Frameworks, Tools and others:
 <p align="center">
 <!-- 
@@ -76,6 +82,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- WORK EXPERIENCE -->
 ## Latest Work Experience
 Here's an overview of my most recent work experience:
 
@@ -95,6 +102,7 @@ Languages, Technologies, Tools and others: `JavaScript`, `SQL Server`, `SAP Arib
 <br/>
 <p>Please find me on <a href="linkedin.com/in/pedrodaspett">LinkedIn</a> for a more detailed description of my full work experience, education and certification.</p>
 
+<!-- CONTACT -->
 ## Find me on...
 <p align="center">
  <a href="https://linkedin.com/in/pedrodaspett" target="_blank">
@@ -118,21 +126,19 @@ Languages, Technologies, Tools and others: `JavaScript`, `SQL Server`, `SAP Arib
  </a>
 </p>
 
-<!--
+<!-- SETUP
 ## Setup:
  <img alt="Setup" src="https://img.shields.io/badge/Apple-MacBook_Pro_M1_2020-999999?style=for-the-badge&logo=apple&logoColor=white"/>
  Find me on:
 <p>
-<a href="https://medium.com/@MokkappsDev">
+<a href="https://medium.com/">
 <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
 </a>
-<a href="https://dev.to/mokkapps">
+<a href="https://dev.to/">
 <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25>
 </a>
 </p>
 -->
- 
-<!-- [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/315p6dnganzjr7cgx3igzvjnbfne) <br> -->
 
 <!-- How to build Language and GitHub stats cards: https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/PedroDaspett?tab=repositories">

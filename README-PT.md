@@ -91,7 +91,7 @@ Logo abaixo há um resumo das minhas mais recentes experiências profissionais.
 [<img align="left" height="94px" width="94px" alt="Itaú Unibanco" src="https://www.itau.com.br/content/dam/itau/varejo/logo-app-Itau.png"/>](https://www.itau.com.br/relacoes-com-investidores/Default.aspx?linguagem=en#)
 
 **Engenheiro de Software FullStack** \
-[**Itaú Unibanco**](https://www.itau.com.br/relacoes-com-investidores/Default.aspx?linguagem=en#) • Período integral • 2019-atualmente \
+[**Itaú Unibanco**](https://www.itau.com.br/relacoes-com-investidores/Default.aspx?linguagem=pt#) • Período integral • 2019-atualmente \
 Linguagens, Frameworks, Ferramentas e outros: `Java`, `API Restful`, `Spring Boot`, `IntelliJ`, `Postman`, `SQL Server Management Studio`, `Docker`, `RAML`, `Visual Studio Code`, `Splunk`, `AppDynamics`, `Grafana`, `AWS`, `Puppet Enterprise`, `Rational Team Concert - IBM Jazz`, `Kafka`, `GitLab/GitLab CI/CD`, `CyberArk`, `Business Complexity Points`, `Jira`, `Confluence`, `Scrum`
 <!-- Featured Projects: [salt-lint](https://github.com/warpnet/salt-lint), [vscode-salt-lint](https://github.com/warpnet/vscode-salt-lint) -->
 

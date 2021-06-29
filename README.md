@@ -32,8 +32,8 @@ BADGES:
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-e32581.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 
  <!-- DATABASE --> 
-  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-darkred?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=F29111"/>
+  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-darkred?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 
  <!-- CLOUD/HOSTING-->
  <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=black"/>

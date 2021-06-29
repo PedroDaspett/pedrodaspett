@@ -1,3 +1,5 @@
+<a href="https://github.com/PedroDaspett/pedrodaspett/blob/master/README.md"><h5>English version</h5></a>
+
 <!-- TITLE -->
 <h1 align="center">Olá, bem-vindo! Eu sou Pedro<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">🇧🇷</h1>
 

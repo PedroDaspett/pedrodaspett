@@ -135,9 +135,11 @@ Languages, Technologies, Tools and others: `JavaScript`, `SQL Server`, `SAP Arib
 <!-- [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/315p6dnganzjr7cgx3igzvjnbfne) <br> -->
 
 <!-- How to build Language and GitHub stats cards: https://github.com/anuraghazra/github-readme-stats -->
+<p>
 <a href="https://github.com/PedroDaspett?tab=repositories">
   <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodaspett&layout=compact&theme=dracula" border-radius="21px"/>
 </a>
 <a href="https://github.com/PedroDaspett?tab=repositories">
   <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=pedrodaspett&theme=dracula&count_private=true&show_icons=true" border-radius="21px"/>
 </a>
+</p>

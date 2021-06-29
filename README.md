@@ -2,7 +2,7 @@
 <h1 align="center">Hey there, welcome! I'm Pedro<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">🇧🇷</h1>
 
 <!-- WHO AM I? -->
-<p>I'm a FullStack developer and currently studying for a bachelor degree in <a href="https://www.mackenzie.br/en/undergraduate-programs/sao-paulo-higienopolis/information-systems">Information Systems</a> at <a href="https://www.mackenzie.br/en/universidade/meet-the-university/">Mackenzie Presbyterian University</a>.
+<p>I'm a FullStack developer and currently studying for a bachelor degree in <a href="https://www.mackenzie.br/en/undergraduate-programs/sao-paulo-higienopolis/information-systems" target="_blank">Information Systems</a> at <a href="https://www.mackenzie.br/en/universidade/meet-the-university/" target="_blank">Mackenzie Presbyterian University</a>.
 </br>
 ⚡️I'm currently learning Swift. 
 </br>
@@ -18,51 +18,51 @@ BADGES:
  https://simpleicons.org
 -->
 <!-- PROGRAMMING LANGUAGES:
-  <img alt="Swift" src="https://img.shields.io/badge/swift-F05138.svg?style=for-the-badge&logo=swift&logoColor=white"/> -->
-  <img alt="Java" src="https://img.shields.io/badge/java-5382a1.svg?style=for-the-badge&logo=java&logoColor=f89820"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=f0db4f"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-007acc.svg?style=for-the-badge&logo=typescript&logoColor=ffffff"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/html_5-E44D26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-2965f1.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/python-306998.svg?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+  <img alt="Swift" src="https://img.shields.io/badge/swift-F05138.svg?style=for-the-badge&logo=swift&logoColor=white" target="_blank"/> -->
+  <img alt="Java" src="https://img.shields.io/badge/java-5382a1.svg?style=for-the-badge&logo=java&logoColor=f89820" target="_blank"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=f0db4f" target="_blank"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-007acc.svg?style=for-the-badge&logo=typescript&logoColor=ffffff" target="_blank"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/html_5-E44D26.svg?style=for-the-badge&logo=html5&logoColor=white" target="_blank"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-2965f1.svg?style=for-the-badge&logo=css3&logoColor=white" target="_blank"/>
+  <img alt="Python" src="https://img.shields.io/badge/python-306998.svg?style=for-the-badge&logo=python&logoColor=FFD43B" target="_blank"/>
 
  <!-- FRAMEWORKS AND LIBRARIES: -->
-  <img alt="Angular" src="https://img.shields.io/badge/angular-dd1b16.svg?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-563d7c.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=F7941E"/>
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=postman&logoColor=EF5B25" />
+  <img alt="Angular" src="https://img.shields.io/badge/angular-dd1b16.svg?style=for-the-badge&logo=angular&logoColor=white" target="_blank"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-563d7c.svg?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"/>
+  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=F7941E" target="_blank"/>
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=postman&logoColor=EF5B25" target="_blank"/>
 
  <!-- IDEs/EDITORS 
-  <img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>  -->
-  <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-e32581.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" target="_blank"/>  -->
+  <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" target="_blank"/>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" target="_blank"/>
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-e32581.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" target="_blank"/>
 
  <!-- DATABASE --> 
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=F29111"/>
-  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-darkred?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=F29111" target="_blank"/>
+  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-darkred?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" target="_blank"/>
 
  <!-- CLOUD/HOSTING-->
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=black"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=black" target="_blank"/>
 
  <!-- ANALYTICS -->
-  <img alt="Splunk" src="https://img.shields.io/badge/splunk-black.svg?style=for-the-badge&logo=splunk&logoColor=65A637"/>
+  <img alt="Splunk" src="https://img.shields.io/badge/splunk-black.svg?style=for-the-badge&logo=splunk&logoColor=65A637" target="_blank"/>
 
  <!-- VERSION CONTROL -->
-  <img alt="Git" src="https://img.shields.io/badge/git-f34f29.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/github-211F1F.svg?style=for-the-badge&logo=github&logoColor=7DBBE6"/>
+  <img alt="Git" src="https://img.shields.io/badge/git-f34f29.svg?style=for-the-badge&logo=git&logoColor=white" target="_blank"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/github-211F1F.svg?style=for-the-badge&logo=github&logoColor=7DBBE6" target="_blank"/>
 
  <!-- OFFICE -->
-  <img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-  <img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
-  <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" target="_blank"/>
+  <img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" target="_blank"/>
+  <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" target="_blank"/>
 
  <!-- DESIGN -->
-  <img alt="Canva" src="https://img.shields.io/badge/Canva-20C4CB.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+  <img alt="Canva" src="https://img.shields.io/badge/Canva-20C4CB.svg?style=for-the-badge&logo=Canva&logoColor=white" target="_blank"/>
 
  <!-- OS -->
-  <img alt="Windows 10" src="https://img.shields.io/badge/Windows_10-00adef?style=for-the-badge&logo=windows&logoColor=white" />
-  <img alt="macOS" src="https://img.shields.io/badge/macOS-555555?style=for-the-badge&logo=macos&logoColor=white">
+  <img alt="Windows 10" src="https://img.shields.io/badge/Windows_10-00adef?style=for-the-badge&logo=windows&logoColor=white" target="_blank"/>
+  <img alt="macOS" src="https://img.shields.io/badge/macOS-555555?style=for-the-badge&logo=macos&logoColor=white" target="_blank"/>
 
  </p>
 
@@ -100,7 +100,7 @@ Languages, Technologies, Tools and others: `Java`, `API Restful`, `Spring Boot`,
 Languages, Technologies, Tools and others: `JavaScript`, `SQL Server`, `SAP Ariba`
 <br/>
 <br/>
-<p>Please find me on <a href="linkedin.com/in/pedrodaspett">LinkedIn</a> for a more detailed description of my full work experience, education and certification.</p>
+<p>Please find me on <a href="linkedin.com/in/pedrodaspett" target="_blank">LinkedIn</a> for a more detailed description of my full work experience, education and certification.</p>
 
 <!-- CONTACT -->
 ## Find me on...

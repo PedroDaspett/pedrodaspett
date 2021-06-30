@@ -1,4 +1,4 @@
-<a href="https://github.com/PedroDaspett/pedrodaspett/blob/master/README-PT.md"><h5>Portuguese version</h5></a>
+<a align="left" href="https://github.com/PedroDaspett/pedrodaspett/blob/master/README-PT.md"><h5>Portuguese version</h5></a>
 
 <!-- TITLE -->
 <h1 align="center">Hey there, welcome! I'm Pedro<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">🇧🇷</h1>
@@ -8,6 +8,8 @@
 </br>
 ⚡️I'm currently learning/studying Swift. 
 </br>
+</br>
+<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=pedrodaspett&color=25D366&style=for-the-badge&logo=Github&logoColor=7DBBE6&lColor=6e5494"/> 
 </p>
 
 <!-- TECHNOLOGIES -->

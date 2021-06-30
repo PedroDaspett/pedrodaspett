@@ -85,8 +85,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- WORK EXPERIENCE -->
-## Latest Work Experience
-Here's an overview of my most recent work experience:
+## Latest Work Experience:
+Down below there's an overview of my most recent work experience.
 
 [<img align="left" height="94px" width="94px" alt="Itaú Unibanco" src="https://www.itau.com.br/content/dam/itau/varejo/logo-app-Itau.png"/>](https://www.itau.com.br/relacoes-com-investidores/Default.aspx?linguagem=en#)
 
@@ -128,9 +128,7 @@ Languages, Technologies, Tools and others: `JavaScript`, `SQL Server`, `SAP Arib
  </a>
 </p>
 
-<!-- SETUP
-## Setup:
- <img alt="Setup" src="https://img.shields.io/badge/Apple-MacBook_Pro_M1_2020-999999?style=for-the-badge&logo=apple&logoColor=white"/>
+<!-- 
  Find me on:
 <p>
 <a href="https://medium.com/">
@@ -141,6 +139,10 @@ Languages, Technologies, Tools and others: `JavaScript`, `SQL Server`, `SAP Arib
 </a>
 </p>
 -->
+
+<!-- SETUP
+## Setup:
+ <img alt="Setup" src="https://img.shields.io/badge/Apple-MacBook_Pro_M1_2020-999999?style=for-the-badge&logo=apple&logoColor=white"/> -->
 
 <!-- How to build Language and GitHub stats cards: https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/PedroDaspett?tab=repositories">

@@ -6,7 +6,7 @@
 <!-- WHO AM I? -->
 <p>I'm a FullStack developer and currently studying for a bachelor degree in <a href="https://www.mackenzie.br/en/undergraduate-programs/sao-paulo-higienopolis/information-systems" target="_blank">Information Systems</a> at <a href="https://www.mackenzie.br/en/universidade/meet-the-university/" target="_blank">Mackenzie Presbyterian University</a>.
 </br>
-⚡️I'm currently learning/studying Swift. 
+⚡️I'm currently learning/studying <b>Swift</b>. 
 </br>
 </br>
 <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=pedrodaspett&color=25D366&style=for-the-badge&logo=Github&logoColor=7DBBE6&lColor=6e5494"/> 

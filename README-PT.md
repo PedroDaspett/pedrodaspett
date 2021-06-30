@@ -6,8 +6,10 @@
 <!-- WHO AM I? -->
 <p>Sou um desenvolvedor FullStack e atualmente estou estudando <a href="https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao" target="_blank">Sistemas da Informação</a> na <a href="https://www.mackenzie.br" target="_blank">Universidade Presbiteriana Mackenzie</a>.
 </br>
-⚡️Atualmente estou aprendendo/estudando Swift. 
+⚡️Atualmente estou aprendendo/estudando <b>Swift</b>. 
 </br>
+</br>
+<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=pedrodaspett&color=25D366&style=for-the-badge&logo=Github&logoColor=7DBBE6&lColor=6e5494"/> 
 </p>
 
 <!-- TECHNOLOGIES -->

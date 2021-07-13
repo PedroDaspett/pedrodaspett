@@ -122,9 +122,11 @@ Languages, Technologies, Tools and others: `JavaScript`, `SQL Server`, `SAP Arib
  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
  </a>
  
+ <!--
  <a href="" target="_blank">
  <img alt="PlayStation Network" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
  </a>
+ -->
  
  <a href=˜https://www.instagram.com/pedrodaspett/˜ target="_blank">
  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>

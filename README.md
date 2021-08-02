@@ -105,7 +105,7 @@ Languages, Technologies, Tools and others: `Java`, `API Restful`, `Spring Boot`,
 Languages, Technologies, Tools and others: `JavaScript`, `SQL Server`, `SAP Ariba`
 <br/>
 <br/>
-<p>Please find me on <a href="linkedin.com/in/pedrodaspett" target="_blank">LinkedIn</a> for a more detailed description of my full work experience, education and certification.</p>
+<p>Please find me on <a href="https://www.linkedin.com/in/pedrodaspett" target="_blank">LinkedIn</a> for a more detailed description of my full work experience, education and certification.</p>
 
 <!-- CONTACT -->
 ## Find me on...

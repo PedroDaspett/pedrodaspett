@@ -10,6 +10,7 @@
 </br>
 </br>
 <!-- https://github.com/Nathan13888/VisitorBadgeReloaded/blob/master/README.md -->
+<!--<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=pedrodaspett&color=25D366&style=for-the-badge&logo=Github&logoColor=7DBBE6&lColor=6e5494"/> -->
 </p>
 
 <!-- TECHNOLOGIES -->

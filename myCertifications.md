@@ -1,15 +1,13 @@
 # My certificates
 
 ### Index
-- [My certificates](#my-certificates)
-    - [Index](#index)
-- [Udemy](#udemy)
-  - [Git and GitHub Essentials for Developers: <a id="html-udemy"></a>](#git-and-github-essentials-for-developers-)
 
+- [Udemy](#udemy)
+  - [Git and GitHub Essentials for Developers](#git-udemy)
 ---
 <br>
 
 # Udemy
 
-## Git and GitHub Essentials for Developers: <a id="html-udemy"></a>
+## Git and GitHub Essentials for Developers: <a id="git-udemy"></a>
 ![](images/Git-course-certificate.jpg)

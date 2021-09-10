@@ -105,7 +105,7 @@ Linguagens, Frameworks, Ferramentas e outros: `Java`, `API Restful`, `Spring Boo
 Linguagens, Frameworks, Ferramentas e outros: `JavaScript`, `SQL Server`, `SAP Ariba`
 <br/>
 <br/>
-<p>Por favor visite meu <a href="linkedin.com/in/pedrodaspett" target="_blank">LinkedIn</a> para uma descrição mais detalhada da minha experiência profissional, educação e certificações.</p>
+<p>Por favor visite meu <a href="linkedin.com/in/pedrodaspett" target="_blank">LinkedIn</a> para uma descrição mais detalhada da minha experiência profissional, educação e <a href="https://github.com/PedroDaspett/pedrodaspett/blob/master/myCertifications.md" target="_blank">certificações</a>.</p>
 <!-- [Meus Certificados](https://github.com/ThesllaDev/ThesllaDev/blob/main/myCertificates.md) -->
 
 <!-- CONTACT -->

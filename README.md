@@ -6,7 +6,7 @@
 <!-- WHO AM I? -->
 <p>I'm a FullStack developer and currently studying for a bachelor degree in <a href="https://www.mackenzie.br/en/undergraduate-programs/sao-paulo-higienopolis/information-systems" target="_blank">Information Systems</a> at <a href="https://www.mackenzie.br/en/universidade/meet-the-university/" target="_blank">Mackenzie Presbyterian University</a>.
 </br>
-⚡️I'm currently learning/studying <b>Swift</b>. 
+⚡️I'm currently focusing my studies on <b>Swift</b>. 
 </br>
 </br>
 <!-- https://github.com/Nathan13888/VisitorBadgeReloaded/blob/master/README.md -->

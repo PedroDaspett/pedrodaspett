@@ -4,7 +4,7 @@
 <h1 align="center">Hey there, welcome! I'm Pedro<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">🇧🇷</h1>
 
 <!-- WHO AM I? -->
-<p>I'm a FullStack developer and currently studying for a bachelor degree in <a href="https://www.mackenzie.br/en/undergraduate-programs/sao-paulo-higienopolis/information-systems" target="_blank">Information Systems</a> at <a href="https://www.mackenzie.br/en/universidade/meet-the-university/" target="_blank">Mackenzie Presbyterian University</a>.
+<p>I'm an iOS developer currently studying for a bachelor degree in <a href="https://www.mackenzie.br/en/undergraduate-programs/sao-paulo-higienopolis/information-systems" target="_blank">Information Systems</a> at <a href="https://www.mackenzie.br/en/universidade/meet-the-university/" target="_blank">Mackenzie Presbyterian University</a>.
 </br>
 ⚡️I'm currently focusing my studies on <b>Swift</b>. 
 </br>
